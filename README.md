@@ -34,3 +34,6 @@ CodeName: KamsNyc
 Role: Full Stack Developer
 Location: Queens, NYC
 Commitment: I will be doing no less than 2 CodeWars challenge(s) per day.
+
+```
+Date: 07/16/2023
