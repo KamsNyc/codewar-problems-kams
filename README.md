@@ -22,7 +22,7 @@ class Person {
 }
 
 const kamel = new Person("Kamel", "KamsNyc", "Full Stack Developer", "Queens, NYC");
-const challengesPerDay = 2;
+const challengesPerDay = 1;
 
 kamel.displayCommitment(challengesPerDay);
 ```
@@ -33,7 +33,7 @@ FirstName: Kamel
 CodeName: KamsNyc
 Role: Full Stack Developer
 Location: Queens, NYC
-Commitment: I will be doing no less than 2 CodeWars challenge(s) per day.
+Commitment: I will be doing more than 1 CodeWars challenge(s) per day.
 
 ```
-Date: 07/16/2023
+Date: 08/13/2023
